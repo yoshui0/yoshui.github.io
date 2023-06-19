@@ -1,0 +1,45 @@
+.bg {
+    background-color: #e09a5c;
+    text-align: center;
+    padding: 40px;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.head {
+    color: white;
+}
+
+.card {
+    text-align: center;
+    background-color:black;
+opacity:0.3;
+border-radius:100px;
+    width: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+}
+
+.p {
+    color: white;
+font-weight:bold;
+
+
+}
+
+.bg-2 {
+    background-color: #e05c65;
+    height: 120px;
+}
+
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-top: 60px solid #e09a5c;
+}
